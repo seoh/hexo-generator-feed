@@ -24,6 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^1.0.0",
+    "striptags": "^2.0.2",
     "utils-merge": "^1.0.0"
   },
   "devDependencies": {
